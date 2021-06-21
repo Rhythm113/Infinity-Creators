@@ -1,6 +1,6 @@
 # Infinity-Creators
 # Official Repo
 
-I've Moved Here For Some Reasons..
+# News ! Infinity Patcher all libs & all ui & codes are Open Source Now.
 
-Don't worry all Channels Will be Active
+Chk the App folder 
